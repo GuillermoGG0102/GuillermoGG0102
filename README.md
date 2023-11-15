@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GuillermoGG0102
-- 👀 I’m interested in Marketing, Digital Business & Data
+- 👀 I’m interested in Marketing, Digital Business, Data & AI
 - ⚽️ My hobbies are football, gym & video games 🎮 
 - 🌱 I’m currently learning Business Analytics (Python, SQL, SaS, R., RapidMiner...)
 - 💞️ I’m looking to collaborate as an intern in a Marketing or Data-focused company
