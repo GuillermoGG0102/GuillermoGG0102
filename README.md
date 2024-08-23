@@ -2,7 +2,7 @@
 - 👀 I’m interested in Marketing, Digital Business, Data & AI
 - ⚽️ My hobbies are football, gym & video games 🎮 
 - 🌱 I’m currently learning Business Analytics (Python, SQL, SaS, R., RapidMiner...)
-- 💞️ I’m looking to collaborate as an intern in a Marketing or Data-focused company
+- 💞️ I’m looking to collaborate as a Marketing or Data-focused company
 - 📫 Reach me on guillermogg0102@gmail.com
 
 <!---
