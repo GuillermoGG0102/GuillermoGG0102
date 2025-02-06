@@ -3,7 +3,7 @@
 - ⚽️ My hobbies are football, gym & video games 🎮 
 - 🌱 I’m currently learning Business Analytics (Python, SQL, SaS, R., RapidMiner...)
 - 💞️ I’m looking to collaborate as a Marketing or Data-focused company
-- 📫 Reach me on guillermogg0102@gmail.com
+- 📫 Reach me on guillermogg0102@gmail.com or www.linkedin.com/in/guillermo-garcía-gonzález-lópez
 
 <!---
 GuillermoGG0102/GuillermoGG0102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
